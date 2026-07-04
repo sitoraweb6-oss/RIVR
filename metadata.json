@@ -1,0 +1,6 @@
+{
+  "name": "RIVR",
+  "description": "Premium DeFi dashboard and fluid asset streaming landing page with a sleek glassmorphism aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
